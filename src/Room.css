@@ -1,0 +1,34 @@
+.room {
+    height: 100%;
+}
+
+.lit {
+    background-color: white;
+    color: black;
+}
+
+
+.dark {
+    background-color: black;
+    color: wheat;
+}
+
+
+.cold {
+    background-color: #88ccd6;
+    color: black;
+}
+
+
+.hot {
+    background-color: #ee4c29;
+    color: black;
+}
+
+.button_style {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: solid; 
+    display: inline-block;
+    font-size: 25px;
+}
