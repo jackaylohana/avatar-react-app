@@ -9,7 +9,7 @@ function Room (){
     // index0 is state of object and
     // index1 is used to change and track that change of state.
     let [isLit, setLit] = useState(false);  // initial state of light is falsle means off. 
-    let [tempValue, setTemp] = useState(22); // initially temperature value is 22 degrees.
+    let [tempValue, setTemp] = useState(23); // initially temperature value is 22 degrees.
 
 return (
 <div>
